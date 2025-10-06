@@ -1,23 +1,23 @@
 [
   {
     "id": 0,
-    "name": "翻译",
-    "url": "https://www.deepl.com/zh/translator"
+    "name": "空间",
+    "url": "https://space.hanze.icu/"
   },
   {
     "id": 1,
-    "name": "地图",
-    "url": "https://ditu.amap.com/"
+    "name": "博客",
+    "url": "https://blog.hanze.icu/"
   },
   {
     "id": 2,
-    "name": "图片",
-    "url": "https://www.pexels.com/zh-cn/"
+    "name": "音乐",
+    "url": "https://yes.hanze.icu/"
   },
   {
     "id": 3,
     "name": "云盘",
-    "url": "https://www.aliyundrive.com/drive/"
+    "url": "https://cloud.hanze.icu/"
   },
   {
     "id": 4,
@@ -27,7 +27,7 @@
   {
     "id": 5,
     "name": "邮箱",
-    "url": "https://mail.qq.com/"
+    "url": "https://mail.hanze.icu/"
   },
   {
     "id": 6,
